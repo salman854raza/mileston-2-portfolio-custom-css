@@ -1,6 +1,6 @@
 import React from 'react';
 import Navbar from './Navbar';
-import './hero.css';
+import './Hero.css';
 
 const Hero = () => {
   return (
